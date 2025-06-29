@@ -1,0 +1,4 @@
+This is a sample text file for testing the FTP server.
+It contains multiple lines of text to verify file transfer functionality.
+
+The FTP server should be able to serve this file correctly. 

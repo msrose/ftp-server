@@ -1,0 +1,4 @@
+This is a file in a nested directory.
+It's used to test the FTP server's directory navigation capabilities.
+
+You can use CWD to change to this directory and then LIST to see this file. 
